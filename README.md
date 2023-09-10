@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SandyaSelvan
 - 👀 I’m interested in Cloud Computing  
-- 🌱 I’m currently learning AWS Solutions Architect, Tableau and DevOps.
+- 🌱 I’m currently learning DevOps.
 - 💞️ I’m looking to collaborate on Creative Projects
 - 📫 How to reach me harsanya97@gmail.com
 
